@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Goutham1812
-- [![HitCount](https://hits.dwyl.com/Goutham1812/Goutham1812.svg?style=flat-square)](http://hits.dwyl.com/Goutham1812/Goutham1812)
+-    Profile Views Count : [![HitCount](https://hits.dwyl.com/Goutham1812/Goutham1812.svg?style=flat-square)](http://hits.dwyl.com/Goutham1812/Goutham1812)
 
-- [![HitCount](https://hits.dwyl.com/Goutham1812/Goutham1812.svg?style=flat-square&show=unique)](http://hits.dwyl.com/Goutham1812/Goutham1812)
+- 
 
 - 
 - 👀 I’m interested in Data Analytics
