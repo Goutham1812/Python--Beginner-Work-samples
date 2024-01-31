@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Goutham1812
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Basic Microsoft Excel and visualization tools like PowerBI and along with that some languages like SQL and R & Rstudio
+- 🌱 I’m currently learning Basic Microsoft Excel and visualization tools like PowerBI and along with that some languages like SQL and R & Rstudio and Python
 - 💞️ I’m looking to collaborate on Projects with Data Analytics
 - 📫 How to reach me You can text a message
 
